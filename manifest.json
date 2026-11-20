@@ -579,5 +579,23 @@
     "type": "global",
     "disabled": false,
     "moduleVersionHeader": true
+  },
+  {
+    "display_name": "DW English",
+    "value": "dwEnglish",
+    "version": "1.0",
+    "icon": "",
+    "type": "global",
+    "disabled": false,
+    "moduleVersionHeader": true
+  },
+  {
+    "display_name": "NASA TV",
+    "value": "nasaTv",
+    "version": "1.0",
+    "icon": "",
+    "type": "global",
+    "disabled": false,
+    "moduleVersionHeader": true
   }
 ]
