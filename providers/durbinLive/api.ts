@@ -52,7 +52,7 @@ export function parsePosts(html: string, ctx: ProviderContext, base: string): Po
     if (seen.has(link)) return;
     seen.add(link);
     const src = image.attr("data-src") || image.attr("data-original") || image.attr("src");
-    posts.push({ title, link, image: src ? absolute(src, base) : "https://cdn.jsdelivr.net/gh/Zenda-Cross/vega-providers@main/assets/durbinLive.jpg", tag: "Live", aspectRatio: 16 / 9 });
+    posts.push({ title, link, image: src ? absolute(src, base) : "https://cdn.jsdelivr.net/gh/Nadan-Prinda/vega-providers@main/assets/durbinLive.jpg", tag: "Live", aspectRatio: 16 / 9 });
   });
   return posts;
 }
