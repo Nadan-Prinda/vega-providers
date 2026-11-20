@@ -597,5 +597,14 @@
     "type": "global",
     "disabled": false,
     "moduleVersionHeader": true
+  },
+  {
+    "display_name": "8XM",
+    "value": "8xm",
+    "version": "1.0",
+    "icon": "",
+    "type": "global",
+    "disabled": false,
+    "moduleVersionHeader": true
   }
 ]
